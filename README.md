@@ -1,1 +1,1 @@
-`mdbook serve --open`
+Documentation for [Scaffold-NFT](https://github.com/hotmanics/scaffold-nft)
